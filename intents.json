@@ -81,8 +81,8 @@
                 "drivercontact": "+91 76543 21129",
                 "driveremail": "amit.patel@gmail.com",
                 "thumbnail": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/45245/datsun-redi-go-right-front-three-quarter19.jpeg?q=80"
-            },
-            {
+              },
+              {
                 "carid": 7,
                 "model": "Fiat 500",
                 "drivername": "Rahul Kapoor",
@@ -93,8 +93,8 @@
                 "drivercontact": "+91 98765 43216",
                 "driveremail": "rahul.kapoor@gmail.com",
                 "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/EV6/8947/1654159762071/front-left-side-47.jpg"
-    },
-    {
+              },
+              {
                 "carid": 8,
                 "model": "Ford EcoSport",
                 "drivername": "Rajat Verma",
