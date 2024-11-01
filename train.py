@@ -18,4 +18,6 @@ for intent in intents['intents']:
 
 ignore_words = ['?','!','.',',']
 all_words =[stem(w) for w in all_words if w not in ignore_words ]
-print(all_words)
+all_words=sorted(set(all_words))
+tags=sorted(set(tags))
+print(tags)
