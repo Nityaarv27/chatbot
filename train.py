@@ -12,9 +12,10 @@ for intent in intents['intents']:
     tag=intent['tag']
     tags.append(tag)
     for pattern in intent['patterns']:
-        w= tokenize(pattern)
+        w = tokenize(pattern)
         all_words.extend(w)
-        xy.append({w,tag})
+        xy.append((w,tag))
 
 ignore_words = ['?','!','.',',']
+all_words =[stem(w) for w in all_words if w not in ignore_words ]
 print(all_words)

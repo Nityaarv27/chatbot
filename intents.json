@@ -1,5 +1,4 @@
-[ 
-    {
+{
         "intents": [
           {
             "tag": "greeting",
@@ -8,443 +7,272 @@
           },
           {
             "tag": "car_info",
-            "patterns": ["Tell me about Audi A4", "Information on BMW X5", "Details for Chevrolet Beat"],
-            "responses": [   
-              {
-                "carid": 1,
-                "model": "Audi A4",
-                "drivername": "Karthik",
-                "driverrating": 4.5,
-                "carrating": 4.6,
-                "seats": 5,
-                "priceperday": 3400,
-                "drivercontact": "+91 87654 32109",
-                "driveremail": "karthik.menon@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
-              },
-              {
-                "carid": 2,
-                "model": "BMW X5",
-                "drivername": "Kiran Mehta",
-                "driverrating": 4.8,
-                "carrating": 4.7,
-                "seats": 5,
-                "priceperday": 10000,
-                "drivercontact": "+91 87654 32145",
-                "driveremail": "kiranmehta@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg"
-              },
-              {
-                "carid": 3,
-                "model": "BMW 3 Series",
-                "drivername": "Meera Kapoor",
-                "driverrating": 4.2,
-                "carrating": 4.1,
-                "seats": 5,
-                "priceperday": 8000,
-                "drivercontact": "+91 76543 21098",
-                "driveremail": "meera.kapoor@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/3-Series-Gran-Limousine/10581/1689667989271/front-left-side-47.jpg"
-              },
-              {
-                "carid": 4,
-                "model": "Chevrolet Beat",
-                "drivername": "Vishal Sharma",
-                "driverrating": 4.2,
-                "carrating": 4,
-                "seats": 4,
-                "priceperday": 1800,
-                "drivercontact": "+91 87654 32119",
-                "driveremail": "vishal.sharma@gmail.com",
-                "thumbnail": "https://m.media-amazon.com/images/I/41McB02zqSL._AC_UF1000,1000_QL80_.jpg"
-              },
-              {
-                "carid": 5,
-                "model": "Chevrolet Malibu",
-                "drivername": "Ananya Patel",
-                "driverrating": 4.8,
-                "carrating": 4.5,
-                "seats": 5,
-                "priceperday": 2800,
-                "drivercontact": "+91 65432 10987",
-                "driveremail": "ananya.patel@gmail.com",
-                "thumbnail": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/cars/malibu/01-images/colorizer/images/2024-malibu-1sp-gnt-colorizer.jpg?imwidth=600"
-              },
-              {
-                "carid": 6,
-                "model": "Datsun Redi-Go",
-                "drivername": "Amit Patel",
-                "driverrating": 4,
-                "carrating": 3.8,
-                "seats": 4,
-                "priceperday": 2200,
-                "drivercontact": "+91 76543 21129",
-                "driveremail": "amit.patel@gmail.com",
-                "thumbnail": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/45245/datsun-redi-go-right-front-three-quarter19.jpeg?q=80"
-              },
-              {
-                "carid": 7,
-                "model": "Fiat 500",
-                "drivername": "Rahul Kapoor",
-                "driverrating": 4.3,
-                "carrating": 4.1,
-                "seats": 4,
-                "priceperday": 3000,
-                "drivercontact": "+91 98765 43216",
-                "driveremail": "rahul.kapoor@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/EV6/8947/1654159762071/front-left-side-47.jpg"
-              },
-              {
-                "carid": 8,
-                "model": "Ford EcoSport",
-                "drivername": "Rajat Verma",
-                "driverrating": 4.5,
-                "carrating": 4,
-                "seats": 8,
-                "priceperday": 3200,
-                "drivercontact": "+91 87654 32115",
-                "driveremail": "rajat.verma@gmail.com",
-                "thumbnail": "https://blogmedia.dealerfire.com/wp-content/uploads/sites/582/2021/09/2021-Ford-EcoSport-White-Platinum-Image_o.jpg"
-              },
-              {
-                "carid": 9,
-                "model": "Ford Fusion",
-                "drivername": "Vikram Singh",
-                "driverrating": 4,
-                "carrating": 3.8,
-                "seats": 4,
-                "priceperday": 3200,
-                "drivercontact": "+91 76543 21098",
-                "driveremail": "vikram.singh@gmail.com",
-                "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg/1920px-2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg"
-              },
-              {
-                "carid": 10,
-                "model": "Ford Mustang",
-                "drivername": "Arjun Patel",
-                "driverrating": 4.8,
-                "carrating": 4.9,
-                "seats": 4,
-                "priceperday": 12000,
-                "drivercontact": "+91 87654 32137",
-                "driveremail": "arjun.patel@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Ford/Mustang-2024/7939/1663750110692/front-left-side-47.jpg"
-              },
-              {
-                "carid": 11,
-                "model": "Honda Accord",
-                "drivername": "Priya Sharma",
-                "driverrating": 4.2,
-                "carrating": 4,
-                "seats": 5,
-                "priceperday": 2500,
-                "drivercontact": "+91 87654 32109",
-                "driveremail": "priya.sharma@gmail.com",
-                "thumbnail": "https://imgd.aeplcdn.com/664x374/cw/ec/21613/Honda-Accord-Right-Front-Three-Quarter-64767.jpg?v=201711021421&q=80"
-              },
-              {
-                "carid": 12,
-                "model": "Honda City",
-                "drivername": "Sunita Das",
-                "driverrating": 4.6,
-                "carrating": 4.4,
-                "seats": 5,
-                "priceperday": 3500,
-                "drivercontact": "+91 98765 43215",
-                "driveremail": "sunita.das@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/City/9710/1677914238296/front-left-side-47.jpg"
-              },
-              {
-                "carid": 13,
-                "model": "Hyundai Creta",
-                "drivername": "Meenakshi Das",
-                "driverrating": 4.7,
-                "carrating": 4.5,
-                "seats": 5,
-                "priceperday": 3300,
-                "drivercontact": "+91 76543 21140",
-                "driveremail": "meenakshi.das@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Creta/11019/Hyundai-Creta-SX-Opt-Adventure-Edition-IVT/1691469378196/exterior-image-166.jpg"
-              },
-              {
-                "carid": 14,
-                "model": "Hyundai i20",
-                "drivername": "Anjali Deshmukh",
-                "driverrating": 4.4,
-                "carrating": 4.2,
-                "seats": 5,
-                "priceperday": 2500,
-                "drivercontact": "+91 98765 43214",
-                "driveremail": "anjali.deshmukh@gmail.com",
-                "thumbnail": "https://s7g10.scene7.com/is/image/hyundaiautoever/Hyundai-i20-nline-5ps_0030?wid=1280&hei=720&fit=wrap,1"
-              },
-              {
-                "carid": 15,
-                "model": "Hyundai Sonata",
-                "drivername": "Aishwarya Reddy",
-                "driverrating": 4.7,
-                "carrating": 4.4,
-                "seats": 5,
-                "priceperday": 2600,
-                "drivercontact": "+91 43210 98765",
-                "driveremail": "aishwarya.reddy@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Hyundai-Sonata/3786/exterior-image-167.jpg"
-              },
-              {
-                "carid": 16,
-                "model": "Hyundai Venue",
-                "drivername": "Amit Kumar",
-                "driverrating": 4.5,
-                "carrating": 4.3,
-                "seats": 5,
-                "priceperday": 2300,
-                "drivercontact": "+91 76543 21125",
-                "driveremail": "amit.kumar@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Venue/10145/1697696499095/front-left-side-47.jpg"
-              },
-              {
-                "carid": 17,
-                "model": "Kia Optima",
-                "drivername": "Sanjay Kapoor",
-                "driverrating": 4.1,
-                "carrating": 3.9,
-                "seats": 4,
-                "priceperday": 3600,
-                "drivercontact": "+91 32109 87654",
-                "driveremail": "sanjay.kapoor@gmail.com",
-                "thumbnail": "https://img2.carmax.com/assets/25149419/hero.jpg?width=800&height=450"
-              },
-              {
-                "carid": 18,
-                "model": "Kia Seltos",
-                "drivername": "Neha Gupta",
-                "driverrating": 4.6,
-                "carrating": 4.4,
-                "seats": 5,
-                "priceperday": 3500,
-                "drivercontact": "+91 98765 43217",
-                "driveremail": "neha.gupta@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Seltos-2023/8709/1688465684023/front-left-side-47.jpg"
-              },
-              {
-                "carid": 19,
-                "model": "Lexus ES",
-                "drivername": "Pooja Verma",
-                "driverrating": 4.8,
-                "carrating": 4.5,
-                "seats": 5,
-                "priceperday": 6000,
-                "drivercontact": "+91 54321 09876",
-                "driveremail": "pooja.verma@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Lexus/ES/9399/1665652746848/front-left-side-47.jpg"
-              },
-              {
-                "carid": 20,
-                "model": "Mahindra XUV700",
-                "drivername": "Vivek Kumar",
-                "driverrating": 4.8,
-                "carrating": 4.7,
-                "seats": 7,
-                "priceperday": 5500,
-                "drivercontact": "+91 76543 21113",
-                "driveremail": "vivek.kumar@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/10797/1690277045969/exterior-image-165.jpg?imwidth=890&impolicy=resize"
-              },
-              {
-                "carid": 21,
-                "model": "Maruti Suzuki Swift",
-                "drivername": "Amit Sharma",
-                "driverrating": 4.5,
-                "carrating": 4.3,
-                "seats": 5,
-                "priceperday": 2400,
-                "drivercontact": "+91 98765 43213",
-                "driveremail": "amit.sharma@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Swift/10406/1697698080681/front-left-side-47.jpg?tr=w-880,h-495"
-              },
-              {
-                "carid": 22,
-                "model": "Mazda6",
-                "drivername": "Neha Gupta",
-                "driverrating": 4.6,
-                "carrating": 4.3,
-                "seats": 5,
-                "priceperday": 5500,
-                "drivercontact": "+91 21098 76543",
-                "driveremail": "neha.gupta@gmail.com",
-                "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/2021-mazda-mazda6-carbon-edition-394-edit-1611709080.jpg?crop=0.668xw:0.564xh;0.311xw,0.400xh&resize=1200:*"
-              },
-              {
-                "carid": 23,
-                "model": "Mercedes-Benz C-Class",
-                "drivername": "Ajay Kumar",
-                "driverrating": 4,
-                "carrating": 3.9,
-                "seats": 4,
-                "priceperday": 8000,
-                "drivercontact": "+91 65432 10987",
-                "driveremail": "ajay.kumar@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/C-Class/10858/1690452480264/front-left-side-47.jpg"
-              },
-              {
-                "carid": 24,
-                "model": "Nissan Altima",
-                "drivername": "Rahul Verma",
-                "driverrating": 4.3,
-                "carrating": 4.1,
-                "seats": 4,
-                "priceperday": 3000,
-                "drivercontact": "+91 54321 09876",
-                "driveremail": "rahul.verma@gmail.com",
-                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFU6J_PnR7JS-HVPVQm5kRJjqlm_tQ3jAdQ&usqp=CAU"
-              },
-              {
-                "carid": 25,
-                "model": "Nissan Kicks",
-                "drivername": "Meera Desai",
-                "driverrating": 4.3,
-                "carrating": 4.1,
-                "seats": 5,
-                "priceperday": 2200,
-                "drivercontact": "+91 87654 32122",
-                "driveremail": "meera.desai@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Nissan/Kicks/7832/1647945473430/front-left-side-47.jpg?imwidth=890&impolicy=resize"
-              },
-              {
-                "carid": 26,
-                "model": "Renault Duster",
-                "drivername": "Rajesh Singh",
-                "driverrating": 4.4,
-                "carrating": 4.2,
-                "seats": 5,
-                "priceperday": 3200,
-                "drivercontact": "+91 76543 21128",
-                "driveremail": "rajesh.singh@gmail.com",
-                "thumbnail": "https://imgd.aeplcdn.com/664x374/n/cw/ec/47028/duster-exterior-right-front-three-quarter-2.jpeg?q=80"
-              },
-              {
-                "carid": 27,
-                "model": "Renault Kiger",
-                "drivername": "Alok Mehta",
-                "driverrating": 4.2,
-                "carrating": 4,
-                "seats": 5,
-                "priceperday": 2300,
-                "drivercontact": "+91 87654 32116",
-                "driveremail": "alok.mehta@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Renault/Kiger/10044/1697698263482/front-left-side-47.jpg?imwidth=890&impolicy=resize"
-              },
-              {
-                "carid": 28,
-                "model": "Skoda Rapid",
-                "drivername": "Vikas Patel",
-                "driverrating": 4.7,
-                "carrating": 4.5,
-                "seats": 5,
-                "priceperday": 3000,
-                "drivercontact": "+91 76543 21120",
-                "driveremail": "vikas.patel@gmail.com",
-                "thumbnail": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20161122035008_DSC_6598.jpg"
-              },
-              {
-                "carid": 29,
-                "model": "Tata Harrier",
-                "drivername": "Sneha Patel",
-                "driverrating": 4.6,
-                "carrating": 4.4,
-                "seats": 5,
-                "priceperday": 4000,
-                "drivercontact": "+91 87654 32112",
-                "driveremail": "sneha.patel@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Harrier/9368/1697532960290/front-left-side-47.jpg"
-              },
-              {
-                "carid": 30,
-                "model": "Tesla Model 3",
-                "drivername": "Divya Kapoor",
-                "driverrating": 4.7,
-                "carrating": 4.4,
-                "seats": 5,
-                "priceperday": 4800,
-                "drivercontact": "+91 32109 87654",
-                "driveremail": "divya.kapoor@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-3/5251/1693556345148/front-left-side-47.jpg"
-              },
-              {
-                "carid": 31,
-                "model": "Toyota Camry",
-                "drivername": "Rajesh Kumar",
-                "driverrating": 4.5,
-                "carrating": 4.2,
-                "seats": 5,
-                "priceperday": 3000,
-                "drivercontact": "+91 98765 43210",
-                "driveremail": "rajesh.kumar@gmail.com",
-                "thumbnail": "https://imgd-ct.aeplcdn.com/1056x660/n/b886bsa_1460381.jpg?q=80"
-              },
-              {
-                "carid": 32,
-                "model": "Toyota Fortuner",
-                "drivername": "Vikrant Singh",
-                "driverrating": 4.9,
-                "carrating": 4.8,
-                "seats": 7,
-                "priceperday": 6000,
-                "drivercontact": "+91 98765 43220",
-                "driveremail": "vikrant.singh@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner/10903/1695443447797/front-left-side-47.jpg"
-              },
-              {
-                "carid": 33,
-                "model": "Toyota Innova Crysta",
-                "drivername": "Priyanka Singh",
-                "driverrating": 4.7,
-                "carrating": 4.6,
-                "seats": 7,
-                "priceperday": 5000,
-                "drivercontact": "+91 87654 32117",
-                "driveremail": "priyanka.singh@gmail.com",
-                "thumbnail": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Innova-Crysta/9612/1697698611076/front-left-side-47.jpg?imwidth=890&impolicy=resize"
-              },
-              {
-                "carid": 34,
-                "model": "Volkswagen Passat",
-                "drivername": "Kunal Reddy",
-                "driverrating": 4.3,
-                "carrating": 4,
-                "seats": 4,
-                "priceperday": 2800,
-                "drivercontact": "+91 43210 98765",
-                "driveremail": "kunal.reddy@gmail.com",
-                "thumbnail": "https://i.i-sgcm.com/new_cars/cars/11853/11853_m.jpg"
-              },
-              {
-                "carid": 35,
-                "model": "Volkswagen Polo",
-                "drivername": "Amit Khanna",
-                "driverrating": 4.5,
-                "carrating": 4.3,
-                "seats": 5,
-                "priceperday": 2600,
-                "drivercontact": "+91 76543 21118",
-                "driveremail": "amit.khanna@gmail.com",
-                "thumbnail": "https://imgd.aeplcdn.com/1280x720/n/9u05hta_1493790.jpg?q=80"
-              },
-              {
-                "carid": 36,
-                "model": "Volkswagen Vento",
-                "drivername": "Rohan Gupta",
-                "driverrating": 4.5,
-                "carrating": 4.3,
-                "seats": 5,
-                "priceperday": 2500,
-                "drivercontact": "+91 98765 43218",
-                "driveremail": "rohan.gupta@gmail.com",
-                "thumbnail": "https://www.motorbeam.com/wp-content/uploads/2018-Volkwagen-Vento-Front.jpg"
-              }
-                         ]
-                    
-          }
+            "patterns": ["car id","Show me the Audi A4", "Details about Audi A4", "Tell me about Audi A4"],
+              "responses": [
+                  "car id:1 ","Model: Audi A4\nDriver: Karthik\nDriver Rating: 4.5\nCar Rating: 4.6\nSeats: 5\nPrice per Day: ₹3400\nContact: +91 87654 32109\nEmail: karthik.menon@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+              ]
+          },
+          {
+            "tag": "car_info",
+              "patterns": ["Show me the BMW X5", "Details about BMW X5", "Tell me about BMW X5"],
+              "responses": [
+                  "car id:2","Model: BMW X5\nDriver: Kiran Mehta\nDriver Rating: 4.8\nCar Rating: 4.7\nSeats: 5\nPrice per Day: ₹10000\nContact: +91 87654 32145\nEmail: kiranmehta@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/X5-2023/10452/1688992642182/front-left-side-47.jpg"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the BMW 3 Series", "Details about BMW 3 Series", "Tell me about BMW 3 Series"],
+              "responses": [
+                  "car id:3","Model: BMW 3 Series\nDriver: Meera Kapoor\nDriver Rating: 4.2\nCar Rating: 4.1\nSeats: 5\nPrice per Day: ₹8000\nContact: +91 76543 21098\nEmail: meera.kapoor@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/3-Series-Gran-Limousine/10581/1689667989271/front-left-side-47.jpg"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the Chevrolet Beat", "Details about Chevrolet Beat", "Tell me about Chevrolet Beat"],
+              "responses": [
+                  "car id:4","Model: Chevrolet Beat\nDriver: Vishal Sharma\nDriver Rating: 4.2\nCar Rating: 4\nSeats: 4\nPrice per Day: ₹1800\nContact: +91 87654 32119\nEmail: vishal.sharma@gmail.com\nThumbnail: https://m.media-amazon.com/images/I/41McB02zqSL._AC_UF1000,1000_QL80_.jpg"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the Chevrolet Malibu", "Details about Chevrolet Malibu", "Tell me about Chevrolet Malibu"],
+              "responses": [
+                 "car id:5", "Model: Chevrolet Malibu\nDriver: Ananya Patel\nDriver Rating: 4.8\nCar Rating: 4.5\nSeats: 5\nPrice per Day: ₹2800\nContact: +91 65432 10987\nEmail: ananya.patel@gmail.com\nThumbnail: https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/cars/malibu/01-images/colorizer/images/2024-malibu-1sp-gnt-colorizer.jpg?imwidth=600"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the Datsun Redi-Go", "Details about Datsun Redi-Go", "Tell me about Datsun Redi-Go"],
+              "responses": [
+                  "car id:6","Model: Datsun Redi-Go\nDriver: Amit Patel\nDriver Rating: 4\nCar Rating: 3.8\nSeats: 4\nPrice per Day: ₹2200\nContact: +91 76543 21129\nEmail: amit.patel@gmail.com\nThumbnail: https://imgd.aeplcdn.com/1200x900/n/cw/ec/45245/datsun-redi-go-right-front-three-quarter19.jpeg?q=80"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the Fiat 500", "Details about Fiat 500", "Tell me about Fiat 500"],
+              "responses": [
+                 "car id:7", "Model: Fiat 500\nDriver: Rahul Kapoor\nDriver Rating: 4.3\nCar Rating: 4.1\nSeats: 4\nPrice per Day: ₹3000\nContact: +91 98765 43216\nEmail: rahul.kapoor@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/EV6/8947/1654159762071/front-left-side-47.jpg"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the Ford EcoSport", "Details about Ford EcoSport", "Tell me about Ford EcoSport"],
+              "responses": [
+                  "car id:8","Model: Ford EcoSport\nDriver: Rajat Verma\nDriver Rating: 4.5\nCar Rating: 4\nSeats: 8\nPrice per Day: ₹3200\nContact: +91 87654 32115\nEmail: rajat.verma@gmail.com\nThumbnail: https://blogmedia.dealerfire.com/wp-content/uploads/sites/582/2021/09/2021-Ford-EcoSport-White-Platinum-Image_o.jpg"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the Ford Fusion", "Details about Ford Fusion", "Tell me about Ford Fusion"],
+              "responses": [
+                 "car id:9", "Model: Ford Fusion\nDriver: Vikram Singh\nDriver Rating: 4\nCar Rating: 3.8\nSeats: 4\nPrice per Day: ₹3200\nContact: +91 76543 21098\nEmail: vikram.singh@gmail.com\nThumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg/1920px-2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the Ford Mustang", "Details about Ford Mustang", "Tell me about Ford Mustang"],
+              "responses": [
+                  "car id:10","Model: Ford Mustang\nDriver: Arjun Patel\nDriver Rating: 4.8\nCar Rating: 4.9\nSeats: 4\nPrice per Day: ₹12000\nContact: +91 87654 32137\nEmail: arjun.patel@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Ford/Mustang-2024/7939/1663750110692/front-left-side-47.jpg"
+              ]
+          },
+          { "tag": "car_info",
+              "patterns": ["Show me the Honda Accord", "Details about Honda Accord", "Tell me about Honda Accord"],
+              "responses": [
+                  "car id:11","Model: Honda Accord\nDriver: Priya Sharma\nDriver Rating: 4.2\nCar Rating: 4\nSeats: 5\nPrice per Day: ₹2500\nContact: +91 87654 32109\nEmail: priya.sharma@gmail.com\nThumbnail: https://imgd.aeplcdn.com/664x374/cw/ec/21613/Honda-Accord-Right-Front-Three-Quarter-64767.jpg?v=201711021421&q=80"
+              ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Honda City",
+              "Details about Honda City",
+              "Tell me about Honda City"
+            ],
+            "responses": [
+              "car id:12","Model: Honda City\\nDriver: Sunita Das\\nDriver Rating: 4.6\\nCar Rating: 4.4\\nSeats: 5\\nPrice per Day: ₹3500\\nContact: +91 98765 43215\\nEmail: sunita.das@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/City/9710/1677914238296/front-left-side-47.jpg"
+            ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Hyundai Creta",
+              "Details about Hyundai Creta",
+              "Tell me about Hyundai Creta"
+            ],
+            "responses": [
+             "car id:13", "Model: Hyundai Creta\\nDriver: Meenakshi Das\\nDriver Rating: 4.7\\nCar Rating: 4.5\\nSeats: 5\\nPrice per Day: ₹3300\\nContact: +91 76543 21140\\nEmail: meenakshi.das@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Creta/11019/Hyundai-Creta-SX-Opt-Adventure-Edition-IVT/1691469378196/exterior-image-166.jpg"
+            ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Hyundai i20",
+              "Details about Hyundai i20",
+              "Tell me about Hyundai i20"
+            ],
+            "responses": [
+              "Model: Hyundai i20\\nDriver: Anjali Deshmukh\\nDriver Rating: 4.4\\nCar Rating: 4.2\\nSeats: 5\\nPrice per Day: ₹2500\\nContact: +91 98765 43214\\nEmail: anjali.deshmukh@gmail.com\\nThumbnail: https://s7g10.scene7.com/is/image/hyundaiautoever/Hyundai-i20-nline-5ps_0030?wid=1280&hei=720&fit=wrap,1"
+            ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Hyundai Sonata",
+              "Details about Hyundai Sonata",
+              "Tell me about Hyundai Sonata"
+            ],
+            "responses": [
+              "Model: Hyundai Sonata\\nDriver: Aishwarya Reddy\\nDriver Rating: 4.7\\nCar Rating: 4.4\\nSeats: 5\\nPrice per Day: ₹2600\\nContact: +91 43210 98765\\nEmail: aishwarya.reddy@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Hyundai-Sonata/3786/exterior-image-167.jpg"
+            ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Hyundai Venue",
+              "Details about Hyundai Venue",
+              "Tell me about Hyundai Venue"
+            ],
+            "responses": [
+              "Model: Hyundai Venue\\nDriver: Amit Kumar\\nDriver Rating: 4.5\\nCar Rating: 4.3\\nSeats: 5\\nPrice per Day: ₹2300\\nContact: +91 76543 21125\\nEmail: amit.kumar@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Venue/10145/1697696499095/front-left-side-47.jpg"
+            ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Kia Optima",
+              "Details about Kia Optima",
+              "Tell me about Kia Optima"
+            ],
+            "responses": [
+              "Model: Kia Optima\\nDriver: Sanjay Kapoor\\nDriver Rating: 4.1\\nCar Rating: 3.9\\nSeats: 4\\nPrice per Day: ₹3600\\nContact: +91 32109 87654\\nEmail: sanjay.kapoor@gmail.com\\nThumbnail: https://img2.carmax.com/assets/25149419/hero.jpg?width=800&height=450"
+            ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Kia Seltos",
+              "Details about Kia Seltos",
+              "Tell me about Kia Seltos"
+            ],
+            "responses": [
+              "Model: Kia Seltos\\nDriver: Neha Gupta\\nDriver Rating: 4.6\\nCar Rating: 4.4\\nSeats: 5\\nPrice per Day: ₹3500\\nContact: +91 98765 43217\\nEmail: neha.gupta@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Seltos-2023/8709/1688465684023/front-left-side-47.jpg"
+            ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Lexus ES",
+              "Details about Lexus ES",
+              "Tell me about Lexus ES"
+            ],
+            "responses": [
+              "Model: Lexus ES\\nDriver: Pooja Verma\\nDriver Rating: 4.8\\nCar Rating: 4.5\\nSeats: 5\\nPrice per Day: ₹6000\\nContact: +91 54321 09876\\nEmail: pooja.verma@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Lexus/ES/9399/1665652746848/front-left-side-47.jpg"
+            ]
+          },
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Mahindra XUV700",
+              "Details about Mahindra XUV700",
+              "Tell me about Mahindra XUV700"
+            ],
+            "responses": [
+              "Model: Mahindra XUV700\\nDriver: Vivek Kumar\\nDriver Rating: 4.8\\nCar Rating: 4.7\\nSeats: 7\\nPrice per Day: ₹5500\\nContact: +91 76543 21113\\nEmail: vivek.kumar@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/10797/1690277045969/exterior-image-165.jpg?imwidth=890&impolicy=resize"
+            ]
+          },
+          
+          { "tag": "car_info",
+            "patterns": [
+              "Show me the Maruti Suzuki Swift",
+              "Details about Maruti Suzuki Swift",
+              "Tell me about Maruti Suzuki Swift"
+            ],
+            "responses": [
+              "Model: Maruti Suzuki Swift\\nDriver: Amit Sharma\\nDriver Rating: 4.5\\nCar Rating: 4.3\\nSeats: 5\\nPrice per Day: ₹2400\\nContact: +91 98765 43213\\nEmail: amit.sharma@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Swift/10406/1697698080681/front-left-side-47.jpg?tr=w-880,h-495"
+            ]
+          },
+          {"tag": "car_info",
+            "patterns": [
+              "Show me the Mazda6",
+              "Details about Mazda6",
+              "Tell me about Mazda6"
+            ],
+            "responses": [
+              "Model: Mazda6\\nDriver: Neha Gupta\\nDriver Rating: 4.6\\nCar Rating: 4.3\\nSeats: 5\\nPrice per Day: ₹5500\\nContact: +91 21098 76543\\nEmail: neha.gupta@gmail.com\\nThumbnail: https://hips.hearstapps.com/hmg-prod/images/2021-mazda-mazda6-carbon-edition-394-edit-1611709080.jpg?crop=0.668xw:0.564xh;0.311xw,0.400xh&resize=1200:*"
+            ]
+          },
+          {"tag": "car_info",
+            "patterns": [
+              "Show me the Mercedes-Benz C-Class",
+              "Details about Mercedes-Benz C-Class",
+              "Tell me about Mercedes-Benz C-Class"
+            ],
+            "responses": [
+              "Model: Mercedes-Benz C-Class\\nDriver: Ajay Kumar\\nDriver Rating: 4.0\\nCar Rating: 3.9\\nSeats: 4\\nPrice per Day: ₹8000\\nContact: +91 65432 10987\\nEmail: ajay.kumar@gmail.com\\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/C-Class/10858/1690452480264/front-left-side-47.jpg"
+            ]
+          },
+          
+            {"tag": "car_info",
+                "patterns": ["Show me the Nissan Altima", "Details about Nissan Altima", "Tell me about Nissan Altima"],
+                "responses": [
+                    "Model: Nissan Altima\nDriver: Rahul Verma\nDriver Rating: 4.3\nCar Rating: 4.1\nSeats: 4\nPrice per Day: ₹3000\nContact: +91 54321 09876\nEmail: rahul.verma@gmail.com\nThumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFU6J_PnR7JS-HVPVQm5kRJjqlm_tQ3jAdQ&usqp=CAU"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Nissan Kicks", "Details about Nissan Kicks", "Tell me about Nissan Kicks"],
+                "responses": [
+                    "Model: Nissan Kicks\nDriver: Meera Desai\nDriver Rating: 4.3\nCar Rating: 4.1\nSeats: 5\nPrice per Day: ₹2200\nContact: +91 87654 32122\nEmail: meera.desai@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Nissan/Kicks/7832/1647945473430/front-left-side-47.jpg?imwidth=890&impolicy=resize"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Renault Duster", "Details about Renault Duster", "Tell me about Renault Duster"],
+                "responses": [
+                    "Model: Renault Duster\nDriver: Rajesh Singh\nDriver Rating: 4.4\nCar Rating: 4.2\nSeats: 5\nPrice per Day: ₹3200\nContact: +91 76543 21128\nEmail: rajesh.singh@gmail.com\nThumbnail: https://imgd.aeplcdn.com/664x374/n/cw/ec/47028/duster-exterior-right-front-three-quarter-2.jpeg?q=80"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Renault Kiger", "Details about Renault Kiger", "Tell me about Renault Kiger"],
+                "responses": [
+                    "Model: Renault Kiger\nDriver: Alok Mehta\nDriver Rating: 4.2\nCar Rating: 4.0\nSeats: 5\nPrice per Day: ₹2300\nContact: +91 87654 32116\nEmail: alok.mehta@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Renault/Kiger/10044/1697698263482/front-left-side-47.jpg?imwidth=890&impolicy=resize"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Skoda Rapid", "Details about Skoda Rapid", "Tell me about Skoda Rapid"],
+                "responses": [
+                    "Model: Skoda Rapid\nDriver: Vikas Patel\nDriver Rating: 4.7\nCar Rating: 4.5\nSeats: 5\nPrice per Day: ₹3000\nContact: +91 76543 21120\nEmail: vikas.patel@gmail.com\nThumbnail: https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Galleries/20161122035008_DSC_6598.jpg"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Tata Harrier", "Details about Tata Harrier", "Tell me about Tata Harrier"],
+                "responses": [
+                    "Model: Tata Harrier\nDriver: Sneha Patel\nDriver Rating: 4.6\nCar Rating: 4.4\nSeats: 5\nPrice per Day: ₹4000\nContact: +91 87654 32112\nEmail: sneha.patel@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Tata/Harrier/9368/1697532960290/front-left-side-47.jpg"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Tesla Model 3", "Details about Tesla Model 3", "Tell me about Tesla Model 3"],
+                "responses": [
+                    "Model: Tesla Model 3\nDriver: Divya Kapoor\nDriver Rating: 4.7\nCar Rating: 4.4\nSeats: 5\nPrice per Day: ₹4800\nContact: +91 32109 87654\nEmail: divya.kapoor@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-3/5251/1693556345148/front-left-side-47.jpg"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Toyota Camry", "Details about Toyota Camry", "Tell me about Toyota Camry"],
+                "responses": [
+                    "Model: Toyota Camry\nDriver: Rajesh Kumar\nDriver Rating: 4.5\nCar Rating: 4.2\nSeats: 5\nPrice per Day: ₹3000\nContact: +91 98765 43210\nEmail: rajesh.kumar@gmail.com\nThumbnail: https://imgd-ct.aeplcdn.com/1056x660/n/b886bsa_1460381.jpg?q=80"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Toyota Fortuner", "Details about Toyota Fortuner", "Tell me about Toyota Fortuner"],
+                "responses": [
+                    "Model: Toyota Fortuner\nDriver: Vikrant Singh\nDriver Rating: 4.9\nCar Rating: 4.8\nSeats: 7\nPrice per Day: ₹6000\nContact: +91 98765 43220\nEmail: vikrant.singh@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner/10903/1695443447797/front-left-side-47.jpg"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Toyota Innova Crysta", "Details about Toyota Innova Crysta", "Tell me about Toyota Innova Crysta"],
+                "responses": [
+                    "Model: Toyota Innova Crysta\nDriver: Priyanka Singh\nDriver Rating: 4.7\nCar Rating: 4.6\nSeats: 7\nPrice per Day: ₹5000\nContact: +91 87654 32117\nEmail: priyanka.singh@gmail.com\nThumbnail: https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Innova-Crysta/9612/1697698611076/front-left-side-47.jpg?imwidth=890&impolicy=resize"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Volkswagen Passat", "Details about Volkswagen Passat", "Tell me about Volkswagen Passat"],
+                "responses": [
+                    "Model: Volkswagen Passat\nDriver: Kunal Reddy\nDriver Rating: 4.3\nCar Rating: 4.0\nSeats: 4\nPrice per Day: ₹2800\nContact: +91 43210 98765\nEmail: kunal.reddy@gmail.com\nThumbnail: https://i.i-sgcm.com/new_cars/cars/11853/11853_m.jpg"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Volkswagen Polo", "Details about Volkswagen Polo", "Tell me about Volkswagen Polo"],
+                "responses": [
+                    "Model: Volkswagen Polo\nDriver: Amit Khanna\nDriver Rating: 4.5\nCar Rating: 4.3\nSeats: 5\nPrice per Day: ₹2600\nContact: +91 76543 21118\nEmail: amit.khanna@gmail.com\nThumbnail: https://imgd.aeplcdn.com/1280x720/n/9u05hta_1493790.jpg?q=80"
+                ]
+            },
+            {"tag": "car_info",
+                "patterns": ["Show me the Volkswagen Vento", "Details about Volkswagen Vento", "Tell me about Volkswagen Vento"],
+                "responses": [
+                    "Model: Volkswagen Vento\nDriver: Rohan Gupta\nDriver Rating: 4.5\nCar Rating: 4.3\nSeats: 5\nPrice per Day: ₹2500\nContact: +91 98765 43218\nEmail: rohan.gupta@gmail.com\nThumbnail: https://www.motorbeam.com/wp-content/uploads/2018-Volkwagen-Vento-Front.jpg"
+                ]
+            }
         ]
-    }
-]
+      }   
+
