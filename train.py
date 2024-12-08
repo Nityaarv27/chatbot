@@ -1,4 +1,6 @@
 import json
+
+from sympy import Idx
 from nltk_utils import tokenize,stem,bag_of_words
 import numpy as np
 
@@ -45,10 +47,12 @@ class ChatDataset(Dataset):
       self.y_data= Y_train
 
     def __getitem__(self, index):
-        return self.x_data[idx],self.y_data[idx]
+        return self.x_data[Idx],self.y_data[Idx]
     def __len__(self):
         return self.n_samples
+
+batch_size=8
     
-    dataset = ChatDataset()
-    train_loader = DataLoader(dataset=)
+dataset = ChatDataset()
+train_loader = DataLoader(dataset=dataset,batch_size=batch_size, shuffle=True,num_workers=2)
 
