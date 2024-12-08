@@ -95,4 +95,15 @@ for epoch in range(num_epochs):
         
 print(f'final loss, loss={loss.item():.4f}')
 
+data = {
+    "model_state":models.state_dict(),
+    "input_size": input_size,
+    "output_size": output_size,
+    "hidden_size":hidden_size,
+    "all_words":all_words,
+    "tags":tags
+}
+FILE="data.pth"
+torch.save(data,FILE)
 
+print(f'training complete. file saved to {FILE}')
