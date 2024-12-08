@@ -28,7 +28,7 @@ bot_name="AGENT"
 print("Let's Chat! type 'quit' to exit")
 while True:
     sentence = input('You: ')
-    if sentence == "quiet":
+    if sentence == "quit":
         break
 
     sentence = tokenize(sentence)
