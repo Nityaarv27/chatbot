@@ -250,22 +250,22 @@
                 ]
             },
             
-            {"tag": "car_info34",
+            {"tag": "car_info33",
                 "patterns": ["Show me the Volkswagen Passat", "Details about Volkswagen Passat", "Tell me about Volkswagen Passat"],
                 "responses": [
-                    "car id:34\nModel: Volkswagen Passat\nDriver: Kunal Reddy\nDriver Rating: 4.3\nCar Rating: 4.0\nSeats: 4\nPrice per Day: ₹2800\nContact: +91 43210 98765\nEmail: kunal.reddy@gmail.com\nThumbnail: https://i.i-sgcm.com/new_cars/cars/11853/11853_m.jpg"
+                    "car id:33\nModel: Volkswagen Passat\nDriver: Kunal Reddy\nDriver Rating: 4.3\nCar Rating: 4.0\nSeats: 4\nPrice per Day: ₹2800\nContact: +91 43210 98765\nEmail: kunal.reddy@gmail.com\nThumbnail: https://i.i-sgcm.com/new_cars/cars/11853/11853_m.jpg"
+                ]
+            },
+            {"tag": "car_info34",
+                "patterns": ["Show me the Volkswagen Polo", "Details about Volkswagen Polo", "Tell me about Volkswagen Polo"],
+                "responses": [
+                    "car id:34\nModel: Volkswagen Polo\nDriver: Amit Khanna\nDriver Rating: 4.5\nCar Rating: 4.3\nSeats: 5\nPrice per Day: ₹2600\nContact: +91 76543 21118\nEmail: amit.khanna@gmail.com\nThumbnail: https://imgd.aeplcdn.com/1280x720/n/9u05hta_1493790.jpg?q=80"
                 ]
             },
             {"tag": "car_info35",
-                "patterns": ["Show me the Volkswagen Polo", "Details about Volkswagen Polo", "Tell me about Volkswagen Polo"],
-                "responses": [
-                    "car id:35\nModel: Volkswagen Polo\nDriver: Amit Khanna\nDriver Rating: 4.5\nCar Rating: 4.3\nSeats: 5\nPrice per Day: ₹2600\nContact: +91 76543 21118\nEmail: amit.khanna@gmail.com\nThumbnail: https://imgd.aeplcdn.com/1280x720/n/9u05hta_1493790.jpg?q=80"
-                ]
-            },
-            {"tag": "car_info36",
                 "patterns": ["Show me the Volkswagen Vento", "Details about Volkswagen Vento", "Tell me about Volkswagen Vento"],
                 "responses": [
-                    "car id:36\nModel: Volkswagen Vento\nDriver: Rohan Gupta\nDriver Rating: 4.5\nCar Rating: 4.3\nSeats: 5\nPrice per Day: ₹2500\nContact: +91 98765 43218\nEmail: rohan.gupta@gmail.com\nThumbnail: https://www.motorbeam.com/wp-content/uploads/2018-Volkwagen-Vento-Front.jpg"
+                    "car id:35\nModel: Volkswagen Vento\nDriver: Rohan Gupta\nDriver Rating: 4.5\nCar Rating: 4.3\nSeats: 5\nPrice per Day: ₹2500\nContact: +91 98765 43218\nEmail: rohan.gupta@gmail.com\nThumbnail: https://www.motorbeam.com/wp-content/uploads/2018-Volkwagen-Vento-Front.jpg"
                 ]
             }
         ]
