@@ -130,21 +130,21 @@
             "tag": "Ford Fusion",
             "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Vikram Singh","The car is rated 3.8/5 and has seating for 4 people","The Driver Rating is 4/5","The price is ₹3200 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Vikram Singh","The car is rated 3.8/5 and has seating for 4 people","The Driver Rating is 4/5","The price is ₹3200 per day","The price is ₹3200 per day","Sure!,Contact: +91 76543 21098\nEmail: vikram.singh@gmail.com, Of course! Here's the link: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg/1920px-2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg "
               ]
 
           },
           { "tag": "car_info9",
               "patterns": ["Show me the Ford Fusion", "Details about Ford Fusion", "Tell me about Ford Fusion"],
               "responses": [
-                 "car id:9\nModel: Ford Fusion\nDriver: Vikram Singh\nDriver Rating: 4\nCar Rating: 3.8\nSeats: 4\nPrice per Day: ₹3200\nContact: +91 76543 21098\nEmail: vikram.singh@gmail.com\nThumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg/1920px-2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg"
+                 "car id:9\nModel: Ford Fusion\nDriver: Vikram Singh\nDriver Rating: 4\nCar Rating: 3.8\nSeats: 4\nPrice per Day: ₹3200\nContact: +91 76543 21098\nEmail: vikram.singh@gmail.com\nThumbnail:  https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg/1920px-2019_Ford_Fusion_Titanium_Energi%2C_front_2.29.20.jpg"
               ]
           },
           {
             "tag": "Ford Mustang",
-            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
+            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Arjun Patel","The car is rated 4.9/5 and has seating for 4 people","The Driver Rating is 4.8/5","The price is ₹12000 per day","The price is ₹12000 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
               ]
 
           },
