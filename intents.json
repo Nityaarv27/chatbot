@@ -58,9 +58,9 @@
           },
           {
             "tag": "Chevrolet Beat",
-            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
+            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Vishal Sharma","The car is rated 4/5 and has seating for 4 people","The Driver Rating is 4.2/5","The price is ₹1800 per day","The price is ₹1800 per day","Sure!,Contact: +91 87654 32119\nEmail: vishal.sharma@gmail.com , Of course! Here's the link:https://m.media-amazon.com/images/I/41McB02zqSL._AC_UF1000,1000_QL80_.jpg "
               ]
 
           },
@@ -72,9 +72,9 @@
           },
           {
             "tag": "Chevrolet Malibu",
-            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
+            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Ananya Patel","The car is rated 4.5/5 and has seating for 5 people","The Driver Rating is 4.8/5","The price is ₹2800 per day","The price is ₹2800 per day","Sure!,Contact: +91 65432 10987\nEmail: ananya.patel@gmail.com+ ,Of course! Here's the link: https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/cars/malibu/01-images/colorizer/images/2024-malibu-1sp-gnt-colorizer.jpg?imwidth=600 "
               ]
 
           },
@@ -86,9 +86,9 @@
           },
           {
             "tag": "Datsun Redi-Go",
-            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
+            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Amit Patel","The car is rated 3.8/5 and has seating for 4 people","The Driver Rating is 4/5","The price is ₹2200 per day","The price is ₹2200 per day","Sure!,Contact: +91 76543 21129\nEmail: amit.patel@gmail.com, Of course! Here's the link: https://imgd.aeplcdn.com/1200x900/n/cw/ec/45245/datsun-redi-go-right-front-three-quarter19.jpeg?q=80"
               ]
 
           },
@@ -100,9 +100,9 @@
           },
           {
             "tag": "Fiat 500",
-            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
+            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Rahul Kapoor","The car is rated 4.1/5 and has seating for 4 people","The Driver Rating is 4.3/5","The price is ₹3000 per day","The price is ₹3000 per day","Sure!,Contact: rahul.kapoor@gmail.com , Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/EV6/8947/1654159762071/front-left-side-47.jpg "
               ]
 
           },
@@ -116,7 +116,7 @@
             "tag": "Ford EcoSport",
             "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Rajat Verma","The car is rated 4/5 and has seating for 8 people","The Driver Rating is 4.5/5","The price is ₹3200 per day","The price is ₹3200 per day","Sure!,Contact: +91 87654 32115\nEmail: rajat.verma@gmail.com , Of course! Here's the link: https://blogmedia.dealerfire.com/wp-content/uploads/sites/582/2021/09/2021-Ford-EcoSport-White-Platinum-Image_o.jpg"
               ]
 
           },
@@ -130,7 +130,7 @@
             "tag": "Ford Fusion",
             "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Vikram Singh","The car is rated 3.8/5 and has seating for 4 people","The Driver Rating is 4/5","The price is ₹3200 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
               ]
 
           },
