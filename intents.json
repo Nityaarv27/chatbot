@@ -170,9 +170,9 @@
           },
           {
             "tag": "Honda City",
-            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
+            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Sunita Das","The car is rated 4.4/5 and has seating for 5 people","The Driver Rating is 4.6/5","The price is ₹3500 per day","The price is ₹3500 per day","Sure!,Contact: +91 98765 43215\nEmail: sunita.das@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/City/9710/1677914238296/front-left-side-47.jpg"
               ]
 
           },
@@ -188,9 +188,9 @@
           },
           {
             "tag": "Hyundai Creta",
-            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What is the car id","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
+            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
-                  "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The car id of Audi A4 is 1","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
+                  "The assigned driver is Meenakshi Das","The car is rated 4.5/5 and has seating for 5 people","The Driver Rating is 4.7/5","The price is ₹3300 per day","The price is ₹3300 per day","Sure!,Contact: +91 76543 21140\nEmail: meenakshi.das@gmail.com , Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Creta/11019/Hyundai-Creta-SX-Opt-Adventure-Edition-IVT/1691469378196/exterior-image-166.jpg"
               ]
 
           },
