@@ -8,7 +8,7 @@
           {
             "tag": "cardetails",
             "patterns": ["What cars are available?"],
-            "responses": [" Here's the list of cars currently available:\nAudi A4\n\n\n\n\\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"]
+            "responses": [" Here's the list of cars currently available:\nAudi A4\nBMW X5\nBMW 3 Series\nChevrolet Beat\nChevrolet Malibu\nDatsun Redi-Go\nFiat 500\nFord EcoSport\nFord Fusion\nFord Mustang\nHonda Accord\nHonda City\nHyundai Creta\n\n\n\n\n\n\n\n\n\n\n\n\n"]
           },
           
           {
