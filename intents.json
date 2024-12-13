@@ -13,7 +13,7 @@
           
           {
             "tag": "Audi A4",
-            "patterns": ["Who is the driver for this car?"," What's the rating and seating capacity of the car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
+            "patterns": ["Who is the driver for Audi A4 car?"," What's the rating and seating capacity of the Audi A4 car?","What's the Driver rating?","What's the price per day for this car?","How much does it cost to rent this car per day? ","Can you share the contact details?","Do you have a picture of the car?"],
               "responses": [
                   "The assigned driver is Karthik","The car is rated 4.6/5 and has seating for 5 people","The Driver Rating is 4.5/5","The price is ₹3400 per day","The price is ₹3400 per day","Sure!,Contact: +91 87654 32109\nEmail: karthik.menon@gmail.com, Of course! Here's the link: https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A4/10548/1689591781105/front-left-side-47.jpg"
               ]
